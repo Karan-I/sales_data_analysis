@@ -20,6 +20,8 @@ This project is a complete **Sales Data Analysis** workflow using **Python**, **
 
 - **Data Visualization**  
   Used Matplotlib and Seaborn to plot monthly order trends, shipping mode usage, and delivery timelines.
+![Screenshot (1014)](https://github.com/user-attachments/assets/355d51e4-ddac-4a96-b1fa-6c7bed85d8df)
+![Screenshot (1015)](https://github.com/user-attachments/assets/1ba43b16-c4ef-4c2e-971c-7253c0e45205)
 
 -  **GitHub Ready**  
   Includes a clean `.ipynb` notebook, `sql_queries.sql` file, and `README.md` for easy understanding.
